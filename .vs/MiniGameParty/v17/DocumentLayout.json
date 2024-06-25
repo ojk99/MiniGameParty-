@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|c:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\minigameparty(\uCD5C\uC885)\\cardmatchinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|solutionrelative:cardmatchinggame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\mousemovegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|solutionrelative:mousemovegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|c:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\minigameparty(\uCD5C\uC885)\\mousemovegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|solutionrelative:mousemovegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|c:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\minigameparty(\uCD5C\uC885)\\buttongame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|solutionrelative:buttongame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\buttongame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|solutionrelative:buttongame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|c:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\minigameparty(\uCD5C\uC885)\\minigameselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|solutionrelative:minigameselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|c:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\minigameparty(\uCD5C\uC885)\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|c:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\minigameparty(\uCD5C\uC885)\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC0CABF-8836-49E5-89C8-6F81242267E7}|MiniGameParty.csproj|solutionrelative:gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardMatchingGame.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\CardMatchingGame.cs",
+              "RelativeDocumentMoniker": "CardMatchingGame.cs",
+              "ToolTip": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\CardMatchingGame.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "CardMatchingGame.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:42:23.393Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MouseMoveGame.cs",
+              "DocumentMoniker": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\MouseMoveGame.cs",
+              "RelativeDocumentMoniker": "MouseMoveGame.cs",
+              "ToolTip": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\MouseMoveGame.cs",
+              "RelativeToolTip": "MouseMoveGame.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:37:35.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonGame.cs",
+              "DocumentMoniker": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\ButtonGame.cs",
+              "RelativeDocumentMoniker": "ButtonGame.cs",
+              "ToolTip": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\ButtonGame.cs",
+              "RelativeToolTip": "ButtonGame.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:37:35.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ButtonGame.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\ButtonGame.cs",
+              "RelativeDocumentMoniker": "ButtonGame.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\MiniGameParty(\uCD5C\uC885)\\ButtonGame.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\user\\Desktop\\MiniGameParty(\uCD5C\uC885)\\ButtonGame.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-25T06:37:35.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MouseMoveGame.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\MouseMoveGame.cs",
+              "RelativeDocumentMoniker": "MouseMoveGame.cs",
+              "ToolTip": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\MouseMoveGame.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "MouseMoveGame.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:37:35.618Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\GameBoard.cs",
+              "RelativeDocumentMoniker": "GameBoard.cs",
+              "ToolTip": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\GameBoard.cs",
+              "RelativeToolTip": "GameBoard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:37:35.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\MainMenu.cs",
+              "RelativeToolTip": "MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:37:35.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MiniGameSelect.cs",
+              "DocumentMoniker": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\MiniGameSelect.cs",
+              "RelativeDocumentMoniker": "MiniGameSelect.cs",
+              "ToolTip": "C:\\\uBAA8\uBE14\\c#\\1\uC870_\uBBF8\uB2C8\uAC8C\uC784\uD30C\uD2F0\\MiniGameParty(\uCD5C\uC885)\\MiniGameSelect.cs",
+              "RelativeToolTip": "MiniGameSelect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0CAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:37:35.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

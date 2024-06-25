@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="ButtonGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DiceRoll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CardMatchingGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EndGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LocationEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MineSweeper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MiniGameSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MouseMoveGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NumericOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlayerMove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RhythmGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ScoreCreateDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StarShipGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
